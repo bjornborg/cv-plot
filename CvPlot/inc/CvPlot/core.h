@@ -22,3 +22,6 @@
 #include <CvPlot/drawables/HorizontalLine.h>
 #include <CvPlot/drawables/VerticalLine.h>
 #include <CvPlot/drawables/Group.h>
+
+// custom
+#include <CvPlot/drawables/Legend.h>

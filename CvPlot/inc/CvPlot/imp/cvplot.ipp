@@ -25,3 +25,7 @@
 #include <CvPlot/imp/XLabel.ipp>
 #include <CvPlot/imp/YAxis.ipp>
 #include <CvPlot/imp/YLabel.ipp>
+
+// custom
+
+#include <CvPlot/imp/Legend.ipp>

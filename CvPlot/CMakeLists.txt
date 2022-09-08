@@ -45,6 +45,7 @@ target_sources(${target} ${public_or_interface}
     ${CMAKE_CURRENT_SOURCE_DIR}/inc/CvPlot/drawables/XLabel.h
     ${CMAKE_CURRENT_SOURCE_DIR}/inc/CvPlot/drawables/YAxis.h
     ${CMAKE_CURRENT_SOURCE_DIR}/inc/CvPlot/drawables/YLabel.h
+    ${CMAKE_CURRENT_SOURCE_DIR}/inc/CvPlot/drawables/Legend.h
     ${CMAKE_CURRENT_SOURCE_DIR}/inc/CvPlot/gui/MouseAdapter.h
     ${CMAKE_CURRENT_SOURCE_DIR}/inc/CvPlot/gui/MouseEvent.h
     ${CMAKE_CURRENT_SOURCE_DIR}/inc/CvPlot/gui/show.h
@@ -71,6 +72,7 @@ target_sources(${target} ${public_or_interface}
     ${CMAKE_CURRENT_SOURCE_DIR}/inc/CvPlot/imp/XLabel.ipp
     ${CMAKE_CURRENT_SOURCE_DIR}/inc/CvPlot/imp/YAxis.ipp
     ${CMAKE_CURRENT_SOURCE_DIR}/inc/CvPlot/imp/YLabel.ipp
+    ${CMAKE_CURRENT_SOURCE_DIR}/inc/CvPlot/imp/Legend.ipp
     ${CMAKE_CURRENT_SOURCE_DIR}/inc/CvPlot/Internal/LinearProjection.h
     ${CMAKE_CURRENT_SOURCE_DIR}/inc/CvPlot/Internal/no_warning.h
     ${CMAKE_CURRENT_SOURCE_DIR}/inc/CvPlot/Internal/Pimpl.h

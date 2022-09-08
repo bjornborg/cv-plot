@@ -8,9 +8,10 @@
 
 #define CVPLOT_VERSION "master"
 
-namespace CvPlot {
+namespace CvPlot
+{
 
-CVPLOT_LIBRARY_INTERFACE std::string version();
+  CVPLOT_LIBRARY_INTERFACE std::string version();
 
 }
 
